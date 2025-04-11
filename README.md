@@ -1,3 +1,5 @@
+**Name:** Jeswin Shalom S  
+**Roll Number:** 212223060106
 # EXP.NO.6-Simulation-of-Hamming-and-Shannon-Fano-Code
 6. Simulation of Hamming and Shannon-Fano Code
 
